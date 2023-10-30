@@ -35,6 +35,6 @@ The target areas are the three areas where pieces can be dropped.
 The updateAreas function is responsible for updating the state of the areas based on the current arrangement of the pieces. If all areas are correct (containing the numbers 1, 2, and 3 respectively), the correct class is added to the areas section.
 
 ### How to Use
-Open the [link]()
+Open the [link](https://emanuellesalesg.github.io/draganddrop/)
 Drag the numbered pieces to the target areas.
 Try to get the correct sequence (1, 2, 3) in the target areas.
