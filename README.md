@@ -8,8 +8,8 @@ The project is built using HTML, CSS, and JavaScript. Here's a brief explanation
 
 - `index.html`: This is the main file containing the HTML structure of the project.
 - `assets/`: This folder contains the style and script files.
-      * `script.js`: This file contains the JavaScript code that controls the drag and drop behavior.
-      * `style.css`: This file contains the styling code for the project's appearance.
+- `script.js`: This file contains the JavaScript code that controls the drag and drop behavior.
+- `style.css`: This file contains the styling code for the project's appearance.
 
 ## Functionality
 ### Drag and Drop
